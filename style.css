@@ -5,6 +5,27 @@ html{
 header h1{
     text-align: center; 
 }
+.Top{
+    background-color: aquamarine;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#ordered{
+    background-color: rgb(223, 169, 218)
+}
+ol{
+    text-align: left;
+    margin-left: 300px;
+    margin-right: 500px;
+}
+figcaption{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
 body{
     width: 100%;
     max-width: 1024px;
